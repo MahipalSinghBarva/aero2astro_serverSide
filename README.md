@@ -1,4 +1,4 @@
-![Screenshot (101)](https://github.com/user-attachments/assets/51c2f246-bb3c-48be-b9ee-87abf35a7d5e)# LAS File Viewer Application
+ LAS File Viewer Application
 
 This project is a full-stack LAS File Viewer that allows users to upload LAS files and view them in a web browser. The application consists of a backend server built with Node.js and Express, and a frontend built with React and Next.js. The frontend is hosted on Vercel, and the backend is hosted on Render.
 
